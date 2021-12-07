@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: violet;
+}
+
+header
+{
+    border: 2px solid black;
+}
+
+header p
+{
+    color: tomato;
+}
